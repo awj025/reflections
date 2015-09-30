@@ -1,0 +1,6 @@
+Looking at git diff and its use of commits.
+Discussion on how to decide when to "commit" - create a milepost version - changes to a file.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Keeping related changes together
+
