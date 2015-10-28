@@ -3,3 +3,6 @@ It sets up git's tracking file as a storage location for git to use in tracking 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It can hold changes which are ready to be tested together but which are not made simultaneously.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It could enable me to quickly return to a development 'breakpoint' so to speak...  get back to a point at which an effort started.
